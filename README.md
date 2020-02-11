@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Antes de começar a utilizar esse projeto precisamos saber de algumas coisas...
+
+Para fazer o teste dessa web, você encontra [aqui](https://github.com/edgaregidio/Estrutura-Product-Hunt-API) uma API necessária para listar todos os produtos no site.
+
 ## Instalação Axios
 
 ### `yarn add axios`
