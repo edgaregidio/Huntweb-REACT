@@ -4,9 +4,10 @@ Antes de começar a utilizar esse projeto precisamos saber de algumas coisas...
 
 Para fazer o teste dessa web, você encontra [aqui](https://github.com/edgaregidio/Estrutura-Product-Hunt-API) uma API necessária para listar todos os produtos no site.
 
-## Instalação Axios
+## Instalação
 
 ### `yarn add axios`
+### `yarn add react-router-dom`
 
 ## Scripts disponíveis
 
