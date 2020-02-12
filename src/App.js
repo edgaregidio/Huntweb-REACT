@@ -1,15 +1,15 @@
 import React from 'react';
+import Routes from './routes';
 
 //Estilizações globais da pagina
 import "./styles.css";
 
 import Header from './componets/Header';
-import Main from './pages/main';
 
 const App = () => (
   <div className="App">
     <Header />
-    <Main />
+    <Routes />
   </div>
 );
 
